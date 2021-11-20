@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 public class TesteConexao {
     private static final String DBURL = "jdbc:mariadb://localhost:3308/poo";
     private static final String DBUSER = "root";
-    private static final String DBPASS= "258460";
+    private static final String DBPASS= "";
 
     public static void main(String[] args) throws Exception {
         System.out.println("Teste de conexão em DB");
