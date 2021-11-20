@@ -11,7 +11,7 @@ public class CursoDAOImpl implements CursoDAO{
 
     private static final String DBURL = "jdbc:mariadb://localhost:3308/poo?allowMultiQueries=true";
     private static final String DBUSER = "root";
-    private static final String DBPASS = "258460";
+    private static final String DBPASS = "";
 
     public CursoDAOImpl() {
         try {
